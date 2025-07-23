@@ -1,10 +1,12 @@
+
 # Recipe App KMP Compose Multiplatform
 
 This app is built using Kotlin Multiplatform using Jetpack Compose based UI Framework Compose Multiplatform for sharing the UI between Android, iOS, Web and Desktop all platforms. 
-It demonstrates the use of Koin for Dependency Injection, Ktor for Networking, SQLDelight for Persistence and Compose Navigation for navigation and Compose ViewModel for business logic in Kotlin Multiplatform for Android, iOS, Web and Desktop platforms. 
+It demonstrates the use of Koin for Dependency Injection, Ktor for Networking, SQLDelight for Persitence and Compose Navigation for navigation and Compose ViewModel for business logic in Kotlin Multiplatform for Android, iOS, Web and Desktop platforms. 
 It features minimal features of Recipe App such as List of Recipes, Recipe Detail, Search Recipes, Favorite Recipes, Login and Profile Screens etc..
 
 ## Libraries used
+
 
 * [Kotlin Multiplatform](https://www.jetbrains.com/kotlin-multiplatform/)
 * [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/)
@@ -20,8 +22,9 @@ It features minimal features of Recipe App such as List of Recipes, Recipe Detai
 #### Mobile
 | | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Toann-nguyen/KMP-cmp/main/screenshots/screenshot1_home.jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Toann-nguyen/KMP-cmp/main/screenshots/screenshot2_search.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Toann-nguyen/KMP-cmp/main/screenshots/screenshot3_detail.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Toann-nguyen/KMP-cmp/main/screenshots/screenshot4_login.jpg">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Toann-nguyen/KMP-cmp/main/screenshots/screenshot5_profile.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Toann-nguyen/KMP-cmp/main/screenshots/screenshot6_profile.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Toann-nguyen/KMP-cmp/main/screenshots/screenshot7_fav.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://raw.githubusercontent.com/Toann-nguyen/KMP-cmp/main/screenshots/screenshot8_popup.jpg">
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Toann-nguyen/KMP-cmp/screenshots/screenshot1_home.jpg">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Toann-nguyen/KMP-cmp/screenshots/screenshot2_search.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Toann-nguyen/KMP-cmp/screenshots/screenshot3_detail.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Toann-nguyen/KMP-cmp/screenshots/screenshot4_login.jpg">|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Toann-nguyen/KMP-cmp/screenshots/screenshot5_profile.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Toann-nguyen/KMP-cmp/screenshots/screenshot6_profile.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Toann-nguyen/KMP-cmp/screenshots/screenshot7_fav.jpg">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/Toann-nguyen/KMP-cmp/screenshots/screenshot8_popup.jpg">
+
 
 ## Pre-requisites
 
@@ -30,6 +33,8 @@ It features minimal features of Recipe App such as List of Recipes, Recipe Detai
 * Latest stable version of Android Studio IDE
 * Latest XCode (for iOS)
 * Kotlin Multiplatform Plugin in Android Studio
+
+
 
 ## Setup
 
